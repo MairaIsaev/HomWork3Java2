@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">HomWork3Java2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="start">start\n</string>
+    <string name="page_first_text">page_first_text</string>
+    <string name="page_second_text">page_second_text</string>
+    <string name="page_third_text">page_third_text</string>
+    <string name="skip">skip</string>
+    <string name="shared_preferences_name">shared_preferences_name\n</string>
+    <string name="_30">30\n</string>
+    <string name="_17_21">17 21\n</string>
+    <string name="Нужносделать">Нужно сделать</string>
+    <string name="text_tv">Убратся дома</string>
+    <string name="_35">30 мая\n</string>
+    <string name="_17_23">17:23\n</string>
+    <string name="Нужносделат">Нужно сделать:</string>
+    <string name="phone_number_hint">+996 --- --- ---</string>
+    <string name="phone_kod">код</string>
+    <string name="get_code_text">Получить код</string>
+    <string name="registration_title">Регистратцися</string>
+    <string name="fill_filet_error_text">Заполните поля</string>
+</resources>

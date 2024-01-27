@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="orange">#D88B02</color>
+    <color name="light_gray">#C4C4C4</color>
+    <color name="light_gray_for_text">#F3F3F3</color>
+    <color name="bark_gray">#B1B1B1</color>
+    <color name="ddd">#D88B02</color>
+    <color name="sss">#505050</color>
+    <color name="aaa">#191818</color>
+    <color name="krasnyi">#571818</color>
+    <color name="ree">#EBE4C9</color>
+    <color name="gray">#FF191818</color>
+    <color name="white1">#E6E6E6</color>
+    <color name="grey1">#B1B1B1</color>
+    <color name="fff">#B1B1B1</color>
+</resources>

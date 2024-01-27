@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "65797213070",
+    "project_id": "homwork3java2",
+    "storage_bucket": "homwork3java2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65797213070:android:5ac54bd63667c8e11572df",
+        "android_client_info": {
+          "package_name": "com.example.HomWork3Java2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdNpRIPZLM89csLC4gCae1O6XN71-J3Dc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
